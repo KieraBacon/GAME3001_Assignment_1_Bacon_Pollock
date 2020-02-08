@@ -1,4 +1,7 @@
-// Kiera Bacon (101050135) GAME3001 Lab 2
+/* * * * * * * * * GAME3001 Assignment 1  * * * * * * * *
+*		  Project by Kiera Bacon and Sam Pollock		*
+* * * * * * * * * GAME3001 Assignment 1  * * * * * * * */
+
 // Core Libraries
 #include <iostream>
 #include <string>
